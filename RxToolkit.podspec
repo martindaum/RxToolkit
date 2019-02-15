@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage         = 'https://github.com/martindaum/RxToolkit'
   spec.license          = { :type => 'MIT', :file => 'LICENSE' }
   spec.author           = { 'martindaum' => 'office@martindaum.com' }
-  spec.source           = { :git => 'https://github.com/martindaum/RxToolkit.git', :tag => s.version.to_s }
+  spec.source           = { :git => 'https://github.com/martindaum/RxToolkit.git', :tag => spec.version.to_s }
 
   spec.ios.deployment_target = '10.0'
   spec.osx.deployment_target = '10.10'
