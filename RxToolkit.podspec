@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name       = 'RxToolkit'
-    spec.version    = '1.0.1'
+    spec.version    = '1.0.2'
     spec.summary    = 'My personal toolkit'
     spec.homepage   = 'https://github.com/martindaum/RxToolkit'
     spec.license    = { :type => 'MIT', :file => 'LICENSE' }

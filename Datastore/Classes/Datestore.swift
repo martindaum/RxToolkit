@@ -5,7 +5,7 @@
 //  Created by Martin Daum on 11.02.19.
 //
 
-import UIKit
+import Foundation
 import RealmSwift
 import RxSwift
 

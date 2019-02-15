@@ -5,6 +5,7 @@
 //  Created by martindaum on 06/26/2018.
 //
 
+import Foundation
 import Alamofire
 import RxSwift
 
