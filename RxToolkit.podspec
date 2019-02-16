@@ -12,10 +12,9 @@ Pod::Spec.new do |spec|
     spec.tvos.deployment_target = '10.0'
     spec.watchos.deployment_target = '3.0'
 
-	spec.swift_version = '4.2'
+		spec.swift_version = '4.2'
 	
     spec.dependency 'RxSwift', '~> 4.0'
-    spec.source_files = '**/*.swift'
 
     spec.subspec 'API' do |subspec|
   	    subspec.dependency 'Alamofire', '~> 4.0'
